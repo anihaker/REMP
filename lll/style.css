@@ -1,0 +1,29 @@
+body{
+	margin:0;
+	background-color:#000;
+
+}
+.vex{
+	border:solid 1px #00FF00;
+	padding: auto;
+	margin: auto;
+	width: 100%;
+	height: 50px;
+	font-family: 'Be Vietnam', sans-serif;
+	text-decoration-color: #00FF00;
+	color:#00FF00;
+}
+.bloki{
+	display: flex;
+	color:#00FF00;
+}
+.himen{
+	border: 1px solid #00ff00;
+	width: 70px;
+	height: 60px;
+}
+.ximen{
+	border: 1px solid #00ff00;
+	width: 70px;
+	height: 60px;
+}
